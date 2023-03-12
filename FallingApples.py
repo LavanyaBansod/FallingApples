@@ -187,7 +187,7 @@ def overImg(Img):
         return
 
         
-    elif Img <= 20 and Img < 30 :
+    elif Img >= 20 and Img < 30 :
         screen.blit(kidding_me, (275,100))
         face_text = face_font.render("""Lucky... """,True,(245,222,179))
         screen.blit(face_text,(275,400))
@@ -374,7 +374,7 @@ def game_loop(basketX = 370,score_value = 0,dodge_value = 0,basketX_change = 0):
                 dodge_value += 1
                 
                 # When dodge value is 50 game ends
-                if dodge_value > 49:
+                if dodge_value > 10:
                     running = False
 
             # position of apple(x,y) and basket(x,y)
