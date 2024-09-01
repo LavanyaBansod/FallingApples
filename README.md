@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2cb73dc4-5927-4a5f-b77c-6119d33c8e7e)# FallingApples
+# FallingApples
 The Falling Apple
 A fun and engaging game for all ages!
 
@@ -30,9 +30,12 @@ Contributing:
 We welcome contributions from the community! Feel free to fork the repository, make changes, and submit a pull request.
 
 Screenshots:
+![image](https://github.com/user-attachments/assets/2cb73dc4-5927-4a5f-b77c-6119d33c8e7e)
 
 ![image](https://github.com/user-attachments/assets/0bff0edd-f11e-4513-8f8d-cf512070c925)
+
 ![image](https://github.com/user-attachments/assets/01f4a509-f669-4d27-9e7f-c3aa638a7596)
+
 ![image](https://github.com/user-attachments/assets/419595f9-67e4-4e1f-be2b-ef29cb91e4bb)
 
 
